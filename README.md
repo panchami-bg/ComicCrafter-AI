@@ -11,10 +11,18 @@ Features:
 
 Technologies Used: 
 
-Frontend:HTML, CSS, JavaScript (Comic-themed UI)  
-Backend:Flask (Python) for AI-powered generation  
-AI Integration:Text-based AI model for story creation  
+Frontend: HTML, CSS, JavaScript (Comic-themed UI)  
+Backend: Flask (Python) for AI-powered generation  
+AI Integration: Text-based AI model for story creation  
 
 How It Works: 
-Enter a comic idea, hit "Generate," and watch your comic come to life!  
+Enter a comic idea, hit "Generate" and watch your comic come to life!  
+
+TEAM MEMBERS:
+
+PANCHAMI B G - sec22ec148@sairamtap.edu.in
+
+BOOMIGA E R - sec23ec224@sairamtap.edu.in
+
+AAKASH P - sec23ec174@sairamtap.edu.in
 
