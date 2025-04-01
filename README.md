@@ -12,8 +12,7 @@ Features:
 Technologies Used: 
 
 Frontend: HTML, CSS, JavaScript (Comic-themed UI)  
-Backend: Flask (Python) for AI-powered generation  
-AI Integration: Text-based AI model for story creation  
+
 
 How It Works: 
 Enter a comic idea, hit "Generate" and watch your comic come to life!  
