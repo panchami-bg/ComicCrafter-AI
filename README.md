@@ -17,6 +17,8 @@ Frontend: HTML, CSS, JavaScript (Comic-themed UI)
 How It Works: 
 Enter a comic idea, hit "Generate" and watch your comic come to life!  
 
+DOC LINK : https://docs.google.com/document/d/16mfuGqjzn-Kx8oyw2Di7JhOUZrATibI3e97XrCjr7iY/edit?usp=sharing
+
 TEAM MEMBERS:
 
 PANCHAMI B G - sec22ec148@sairamtap.edu.in
