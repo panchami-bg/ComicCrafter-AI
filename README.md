@@ -9,13 +9,8 @@ Features:
 ✅ Fast & Local Execution – Runs on edge devices without relying on cloud services  
 ✅ User-Friendly Interface – Simple input box for prompts and easy comic generation  
 
-Technologies Used: 
+Using OpenAI's GPT-4 for script generation and DALL·E for image creation, comicgenerator.py (Python script) automates the production of AI-generated comics.  A user-provided concept serves as the basis for creating a structured comic script that is formatted into labelled panels with dialogue and explanations.  To ensure a well-structured format, the script is then analyzed using regular expressions to retrieve individual panels.  The story is graphically brought to life by feeding the description of each panel into DALL·E, which creates accompanying drawings.
 
-Frontend: HTML, CSS, JavaScript (Comic-themed UI)  
-
-
-How It Works: 
-Enter a comic idea, hit "Generate" and watch your comic come to life!  
 
 DOC LINK : https://docs.google.com/document/d/16mfuGqjzn-Kx8oyw2Di7JhOUZrATibI3e97XrCjr7iY/edit?usp=sharing
 
